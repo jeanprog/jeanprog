@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm a fullstack developer with a front-end focus 😄
+I'm a front-end developer with a front-end focus 😄
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
