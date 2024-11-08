@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeanprog)](https://github.com/jeanprog)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-roberto-184766203/)](https://www.linkedin.com/in/jean-roberto-184766203/)
 
-## About me:
+
 
 ## Front-end Developer
 Com um profundo apreço pelos detalhes e uma mente analítica, destaco-me na capacidade de ajustar e aprimorar processos em meu cotidiano. Sou formado em Tecnologia de Sistemas de Informação, onde a jornada acadêmica me proporcionou valiosas lições sobre desenvolvimento de ideias, cumprimento de prazos e a importância do trabalho colaborativo.
