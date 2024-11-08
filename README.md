@@ -16,7 +16,7 @@ Com um profundo apreço pelos detalhes e uma mente analítica, destaco-me na cap
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="border: 2px solid #007acc; border-radius: 8px;"/>
 </div>
 
-### Frontend: 
+### Frontend:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border: 2px solid #e34f26; border-radius: 8px;"/> 
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="border: 2px solid #1572b6; border-radius: 8px;"/> 
